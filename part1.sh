@@ -7,4 +7,3 @@ else
     echo "Names Parsed Successfully, Default Action Ran"
 fi
 echo "Primary Interface"
-
